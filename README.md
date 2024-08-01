@@ -3,7 +3,8 @@ This is a Machine Learning, predictive and descriptive modeling study of housing
 
 Business Case: Develop a model with minimal, easy to use features, that delivers high accuracy. Users of this model would be real estate agents and prospective buyers/sellers.
 - This includes descriptive modelling to analyze neighborhoods, macroeconomic factors, and the impact of the 2008 housing crisis on the AMES Market. 
-- Information, Analysis and Visuals have been summarized in the AMES Presentation (pdf).
+
+>>>> AMES Presentation (pdf). Information, Analysis and Visuals and written summary. 
 
 For detailed code work, please view sequentially:
 
